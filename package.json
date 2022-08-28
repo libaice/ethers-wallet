@@ -1,0 +1,11 @@
+{
+  "name": "ethersjs-wallet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "baice",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.7.0",
+    "file-saver": "^2.0.5"
+  }
+}
